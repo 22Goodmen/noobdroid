@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="oval-1.84">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.oval/oval/1.84/1a58e655e2e146ad1d53c19ff272c27aa7e887b0/oval-1.84.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.oval/oval/1.84/45a7d5575b2790a73a6630263728a0507e33ac8/oval-1.84-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

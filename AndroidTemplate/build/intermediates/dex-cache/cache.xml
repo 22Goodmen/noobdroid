@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/pre-dexed/debug/picasso-2.4.0-5c0cf03bc8c16e21b6fb81f80ac2bb231c2c8394.jar"
+        jar="/Users/rishal/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2"/>
+    <item
+        dex="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/pre-dexed/debug/classes-15de86d82972d246ed5b35330f3651580ef1b79c.jar"
+        jar="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="07e07903922250dabf50c7d131d6fa069a050305"/>
+    <item
+        dex="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/pre-dexed/debug/gson-2.3.1-2aabf8ccf39c4cb6b168afabe7f890a9e9a41618.jar"
+        jar="/Users/rishal/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757"/>
+    <item
+        dex="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-1adf76cbebdd8b1b0a809c779b0ba4f7f2da6b37.jar"
+        jar="/Users/rishal/Documents/Rishal/Software/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/pre-dexed/debug/retrofit-1.8.0-74047017c4c2ace0ca9d9c6677670b70aa4ab341.jar"
+        jar="/Users/rishal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5"/>
+    <item
+        dex="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/pre-dexed/debug/oval-1.84-25b6e9187ee6b3d5a2901a7e863020912e30a38d.jar"
+        jar="/Users/rishal/.gradle/caches/modules-2/files-2.1/net.sf.oval/oval/1.84/1a58e655e2e146ad1d53c19ff272c27aa7e887b0/oval-1.84.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a58e655e2e146ad1d53c19ff272c27aa7e887b0"/>
+    <item
+        dex="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/pre-dexed/debug/classes-bca7a3c379a853c93109abaf122c72acd8cbb234.jar"
+        jar="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-523b9edaeae1d3388bbc5eebf1ac6aa45620f2d4.jar"
+        jar="/Users/rishal/Documents/Rishal/Work/AndroidTemplate/template/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+
+</pre-dex-items>
